@@ -1,3 +1,14 @@
+*{ 
+    font-family: sans-serif;
+}
+
 body {
     color: blue;
+ 
+}
+button {
+    background-color: red;
+    color: #fff;
+    padding: 30px;
+    font-size: 20px;
 }
